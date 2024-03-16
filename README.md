@@ -1,4 +1,4 @@
-Certainly! Here's a template for your README.md file for the GitHub repository:
+
 
 ```markdown
 # SecurePassCheck
